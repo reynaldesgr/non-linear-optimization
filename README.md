@@ -1,4 +1,4 @@
-# Non-linear-optimization
+# Non-linear Optimization
 
 
 ``Gradient descent Method``
